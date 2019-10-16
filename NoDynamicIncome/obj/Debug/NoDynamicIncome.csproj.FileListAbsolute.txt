@@ -1,0 +1,14 @@
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\NoDynamicIncome.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\NoDynamicIncome.pdb
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\0Harmony.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\ICities.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\UnityEngine.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\obj\Debug\NoDynamicIncome.csprojAssemblyReference.cache
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\obj\Debug\NoDynamicIncome.csproj.CopyComplete
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\obj\Debug\NoDynamicIncome.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\obj\Debug\NoDynamicIncome.pdb
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\Assembly-CSharp.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\ColossalManaged.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\PopsApiWrapper.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\desig\source\repos\NoDynamicIncome\NoDynamicIncome\bin\Debug\ICSharpCode.SharpZipLib.dll
